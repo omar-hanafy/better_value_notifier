@@ -1,0 +1,25 @@
+name: better_value_notifier
+description: Typed ValueNotifier wrappers, extensions, and builder widgets for Flutter.
+version: 1.0.0
+repository: https://github.com/omar-hanafy/better_value_notifier
+issue_tracker: https://github.com/omar-hanafy/better_value_notifier/issues
+homepage: https://github.com/omar-hanafy/better_value_notifier
+
+topics:
+ - flutter
+ - listenable
+ - notifier
+ - value-notifier
+
+environment:
+  sdk: '>=3.11.4 <4.0.0'
+  flutter: '>=3.41.6'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: 6.0.0
+  flutter_test:
+    sdk: flutter

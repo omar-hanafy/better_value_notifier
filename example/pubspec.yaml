@@ -1,0 +1,18 @@
+name: better_value_notifier_example
+publish_to: none
+
+environment:
+  sdk: '>=3.11.4 <4.0.0'
+  flutter: '>=3.41.6'
+
+dependencies:
+  better_value_notifier:
+    path: ../
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

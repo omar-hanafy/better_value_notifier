@@ -1,3 +1,14 @@
+## 1.0.0-dev.2
+
+### Added
+
+- Canonical GitHub Actions workflows for CI, publish dry-run, auto-release, labeler, and Trusted Publisher publishing.
+- Repository governance files including `CODEOWNERS`, release labeler configuration, and pull request template.
+
+### Changed
+
+- Ignored `example/pubspec.lock` to avoid publish and CI drift.
+
 ## 1.0.0-dev.1
 
 ### Added
